@@ -46,7 +46,7 @@ You may use the comand `ls` to see the files and repositories exitent in your cu
 😎 **Abdo Amin**
 - GitHub: [@Abdelrhman-Amin](https://github.com/AbdelrhmanAmin)
 - Twitter: [@Abdo Amin](https://twitter.com/AbdoAmi60489112)
-- LinkedIn: [@Abdo Amin](https://www.linkedin.com/in/abdo-amin-ab786a1b0/)
+- LinkedIn: [@Abdo Amin](https://www.linkedin.com/in/abdoamin/)
 
 
 ## 🤝 Contributing
